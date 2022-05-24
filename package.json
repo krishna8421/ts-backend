@@ -1,9 +1,9 @@
 {
-  "name": "ktf-backend",
+  "name": "ts-backend",
   "version": "0.0.1",
-  "description": "KTF Backend",
+  "description": "TS Backend",
   "main": "dist/server.js",
-  "repository": "git@github.com:krishna8421/ktf-backend",
+  "repository": "git@github.com:krishna8421/ts-backend",
   "author": "Krishna Kumar",
   "license": "MIT",
   "scripts": {
